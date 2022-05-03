@@ -9,3 +9,4 @@ if animalfav == 'T-Rex':
     print('Mi animal favorito es también el T-Rex')
 elif animalfav != 'T-Rex':
     print('Ese animal es muy grande y peligroso, me encanta el T-Rex')
+    print('Otro de mis dinosaurios favoritos es el Velociraptor')
