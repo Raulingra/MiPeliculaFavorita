@@ -19,5 +19,5 @@
 - Compañero del curso - @LuisOvalleH
 
 ### Imagenes.
- <a href="https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/08/spider-man1.jpg?fit=1920%2C1080&ssl=1"></a>
-<a href="https://c8.alamy.com/compes/k379ft/spider-man-us-2002-k379ft.jpg"></a>
+ <img src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/08/spider-man1.jpg?fit=1920%2C1080&ssl=1">
+<img src="https://c8.alamy.com/compes/k379ft/spider-man-us-2002-k379ft.jpg">
